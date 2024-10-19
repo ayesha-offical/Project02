@@ -1,0 +1,11 @@
+.fotters{
+  background-color: #040e30a0;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: small;
+
+}
