@@ -1,0 +1,27 @@
+.header{
+    position: sticky;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgba(22, 18, 47, 0.482);
+
+    padding: 20px;
+    list-style-type: none;
+    font-family:  'Arial Narrow';
+}
+.nav:hover{
+    background-color: rgba(13, 11, 28, 0.782);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    
+}
+.span{
+    font-weight: 800;
+    cursor: pointer;
+    transition: 0.4s ease;
+    font-size: 20px;
+    font-family: "Dancing Script";
+    color: rgb(234, 71, 1);
+}

@@ -1,0 +1,160 @@
+.main{
+    text-align: center;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 40px;
+    font-weight: 900;  
+    font-family: "Dancing Script";
+    color: rgb(239, 56, 15);
+}
+.main:hover{
+    color: rgb(255, 255, 255);
+ 
+}
+.heading1{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+    text-align: center;
+}
+.heading1:hover{
+    color: rgb(230, 75, 9);
+    transition: color 0.5s ease;
+}
+.heading2{
+    color:rgb(230, 75, 9);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+  
+}
+.heading2:hover{
+    color:  rgb(255, 255, 255);
+    transition: color 0.5s ease;
+}
+.heading3{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+  
+}
+.heading3:hover{
+    color:  rgb(230, 75, 9);
+    transition: color 0.5s ease;
+}
+.heading4{
+    color:rgb(230, 75, 9);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+ 
+}
+.heading4:hover{
+    color: rgb(255, 255, 255);
+    transition: color 0.5s ease;
+}
+.heading5{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+  
+}
+.heading5:hover{
+    color:  rgb(230, 75, 9);
+    transition: color 0.5s ease;
+}
+.heading6{
+    color:rgb(230, 75, 9);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+   
+}
+.heading6:hover{
+    color:  rgb(255, 255, 255);
+    transition: color 0.5s ease;
+}
+.heading7{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+   
+}
+.heading7:hover{
+    color:   rgb(230, 75, 9);
+    transition: color 0.5s ease;
+}
+.heading8{
+    color:rgb(230, 75, 9);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+   
+}
+.heading8:hover{
+    color:  rgb(255, 255, 255);
+    transition: color 0.5s ease;
+}
+.heading9{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+   
+}
+.heading9:hover{
+    color:  rgb(230, 75, 9);
+    transition: color 0.5s ease;
+}
+.heading10{
+    color: rgb(255, 255, 255);;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+   
+}
+.heading10:hover{
+    color:  rgb(230, 75, 9);
+    transition: color 0.5s ease;
+}
+.heading11{
+    color:rgb(230, 75, 9);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+   
+}
+.heading11:hover{
+    color:  rgb(255, 255, 255);
+    transition: color 0.5s ease;
+}
+.heading12{
+    color:rgb(230, 75, 9);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Dancing Script";
+    margin-top:20px ;
+   
+}
+.heading12:hover{
+    color:  rgb(255, 255, 255);
+    transition: color 0.5s ease;
+}
