@@ -1,12 +1,17 @@
-body{
+.body{
   background-image: url(https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
   background-size: cover;
 }
 .image{
   width: 1010px;
   color: rgba(129, 73, 73, 0.432);
-  }
+}
 
+.container {
+  min-height: 100vh;
+  background-image: url(https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-size: cover;
+}
 
 /* @media (prefers-color-scheme: dark) {
   .page {
@@ -22,12 +27,12 @@ body{
 
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
-  a.primary:hover {
+  .primary:hover {
     background: var(--button-primary-hover);
     border-color: transparent;
   }
 
-  a.secondary:hover {
+  .secondary:hover {
     background: var(--button-secondary-hover);
     border-color: transparent;
   }

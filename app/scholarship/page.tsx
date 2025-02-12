@@ -1,12 +1,12 @@
 import style from "./scholarship.module.css"
-import Header from "../component/header/header"
-import Fotter from "../component/header/fotter/fotter"
+
 
 
 const Scholarship = () => {
   return (
     <>
-    <div className={style.main}>  <Header></Header>
+
+    <div className={style.main}>  
 <h1 className={style.heading}>  
     Scholarships From Diffrent Countries
                  2025
@@ -31,7 +31,7 @@ const Scholarship = () => {
 </div>
 
     </div>
-   <Fotter></Fotter>
+
     </>
   )
 }

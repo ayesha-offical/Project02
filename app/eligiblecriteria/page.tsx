@@ -1,13 +1,10 @@
 import style from "./eligiblecriteria.module.css"
-import Header from "../component/header/header"
-import Fotter from "../component/header/fotter/fotter"
 import Link from "next/link"
 
 const Eligiblecriteria = () => {
   return (
     <>
-     <Header></Header>
-     
+          
     <div className={style.main}> 
     <div className={style.mainhead}> Eligibility Criterea Of Scholarships</div>
       <Link className={style.heading1}href="https://scholarshiproar.com/yale-university-scholarships/#google_vignette">1: Yale University Eligibility Criteria </Link>
@@ -24,7 +21,7 @@ const Eligiblecriteria = () => {
       <Link className={style.heading12}href="https://gksscholarship.com/gks-scholarship-2025-global-korea-scholarship-2025-apply-now/">12: GKS South Korea Eligibility Criteria </Link>
 
     </div>
-    <Fotter></Fotter>
+  
     </>
   )
 
